@@ -12,19 +12,18 @@ Tấn công từ chối dịch vụ phân tán (DDoS) là một loại tấn cô
 
 ## Mục lục
 
-- [Bắt đầu](#Bắt đầu)
-- [Yêu cầu](#Yêu cầu)
-- [Cách sử dụng](#Cách sử dụng)
-- [Đóng góp](#Đóng góp)
-- [Giấy phép](#Giấy phép)
-- [Lời cảm ơn](#Lời cảm ơn)
+- [Bắt đầu]
+- [Yêu cầu]
+- [Cách sử dụng]
+- [Đóng góp]
+- [Lời cảm ơn]
 
 ## Bắt đầu
 
 Để bắt đầu dự án, chỉ cần sao chép kho lưu trữ vào máy cục bộ của bạn:
 
 ```
-git clone https://github.com/karthik558/ddos-attack.git
+git clone https://github.com/Qu4nghuy/b22dcat145.git
 ```
 
 ## Yêu cầu
